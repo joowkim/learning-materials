@@ -1,7 +1,9 @@
-## Stat terms
+# Stat terms
+---------------  
 
+### Estimated beta coefficient interpretation  
 There is sufficient evidence at the 0.05 level to conclude that a predictor variable is statistically significant or is significantly related to the reponse variable.   
-
+[reference: Penn State State501]
 
 ### Extrapolation  
 beyond the "scopte of the model" when estimating a mean Uy or to predict a new response y_new for x values int in the range of the sample data  

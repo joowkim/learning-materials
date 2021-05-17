@@ -15,6 +15,17 @@ The Central Limit Theorem of probability states that the sum of many small, inde
 [reference](Regression and Other Stories)
 
 
-#### Etc
+### Standard error  
+The standard deviation of an estimate  
+[reference](Regression and Other Stories) 
+
+
+### Interpretation of regression coefficients  
+The safest interpretation of a regression is as a comparison For example   
+earnings = -26 + 0.6 x height + 10.6 x male + error  
+Comparing two people with the same height but different sex, the man's earnings will be, on average, $10,600 more than the woman's in the fitted model.  
+[reference](Regression and Other Stories) 
+
+### Etc
 e-05 notation
 1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16

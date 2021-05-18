@@ -33,7 +33,7 @@ The safest interpretation of a regression is as a comparison For example
 
 When comparing two kids whose mothers have the same level of education, the kid whose mother is x IQ points higher is predicted to have a test score that is 6x higher, on average.
 
-We interpret regression slopes as comparisons of individulas that differ in one predictor while being at the same levels of the other predictors.
+We interpret regression slopes as comparisons of individulas that differ in one predictor while being at the same levels of the other predictors.  
 [reference](Regression and Other Stories) 
 
 ### Etc

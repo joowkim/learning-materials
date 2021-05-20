@@ -17,7 +17,9 @@ The Central Limit Theorem of probability states that the sum of many small, inde
 
 ### Standard error  
 The standard deviation of an estimate  
-[reference](Regression and Other Stories) 
+[reference](Regression and Other Stories)  
+When the standard deviation of a statistic (funcation of RV) is estimated from data, the result called the standard error of statistic.  
+[reference](Basic practice of statistics - Moore 6th ed. p438 and https://youtu.be/kNHrOEavGuI)
 
 
 ### Interpretation of regression coefficients  

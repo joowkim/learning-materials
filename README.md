@@ -17,9 +17,15 @@ The Central Limit Theorem of probability states that the sum of many small, inde
 
 ### Standard error  
 The standard deviation of an estimate  
-[reference](Regression and Other Stories)  
+[reference](Regression and Other Stories)   
+
 When the standard deviation of a statistic (funcation of RV) is estimated from data, the result called the standard error of statistic.  
-[reference](Basic practice of statistics - Moore 6th ed. p438 and https://youtu.be/kNHrOEavGuI)
+[reference](Basic practice of statistics - Moore 6th ed. p438 and https://youtu.be/kNHrOEavGuI)  
+
+The standard error of the some estimated beta coefficient 0.1521, tells us the estimated standard deviation of the sample slope from one sample to another.  
+
+In repeated sampling, our calculated slope based on a random sample will vary from one sample to another. A typical difference between the calculated sample slope and the population slope is estimated to be 0.1521 (estimated beta coefficient is 1.1667 and std error 0.1521)  
+[reference](Texas A&M lecture notes)  
 
 
 ### Interpretation of regression coefficients  
@@ -37,6 +43,11 @@ When comparing two kids whose mothers have the same level of education, the kid 
 
 We interpret regression slopes as comparisons of individulas that differ in one predictor while being at the same levels of the other predictors.  
 [reference](Regression and Other Stories) 
+
+Y = -129.1667 + 1.1667 * Height  
+If a person's height increase by 1 cm, their weight is expected to in crease by 1.1667, according to our model. We don't know for sure that if x increases by 1,
+y increases by slope in the *population*; remember our slope is calculated based on only a sample of data. (expected, according to our model, predcited and on average)  
+[reference](Texas A&M lecture notes)  
 
 ### Etc
 e-05 notation

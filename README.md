@@ -49,6 +49,18 @@ If a person's height increase by 1 cm, their weight is expected to in crease by 
 y increases by slope in the *population*; remember our slope is calculated based on only a sample of data. (expected, according to our model, predcited and on average)  
 [reference](Texas A&M lecture notes)  
 
+
+### Multiple comparison problem  
+
+Suppose there are 8 individual hypothesis tests are conducted on beta_1 = 0, beta_2 = 0, beta_3 = 0 ... beta_8 = 0 using alaph = 0.05 for each test. What is the probability taht at least one type 1 error (reject H_0, but H_0 is really true) happends in the 8 tests? This probability would be difficult to find, but we can approximate it by assuming independence among the tests.  
+
+Using the binomial distribution - success meaning type 1 error occurs.  
+P(success) = 0.05, P(failure) = 0.95
+#of trails = 8, #of type 1 error happens = x>=1  
+``` 1 - pbinom(0, 8, 0.05)``` which is 0.3366. So there is a 33.66% probability of making at least one type 1 error.  
+[reference](Chris Builder - Multiple regression lecture notes Class #16)  
+
+
 ### Etc
 e-05 notation
 1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16

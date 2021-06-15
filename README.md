@@ -16,7 +16,10 @@ The Central Limit Theorem of probability states that the sum of many small, inde
 
 ### P-value
 The *p-value* gives us the probability that we don't have a representative sample; it is the probability of getting a test statistic as large or larger than what we actually observed if *H_0* were true.  
-[reference](DOE lecture notes from KU)
+[reference](DOE lecture notes from KU)  
+
+The probability of obtaining at least the same result under the null hypothesis.  
+[reference](DOE lecture notes from KU)  
 
 
 ### Standard error  

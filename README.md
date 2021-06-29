@@ -68,6 +68,11 @@ P(success) = 0.05, P(failure) = 0.95
 [reference](Chris Builder - Multiple regression lecture notes Class #16)  
 
 
+### Interpreting the interaction term
+The effet of the levels of FactorA depends upon what level of factorB  
+[refereces](https://online.stat.psu.edu/stat502/lesson/4/4.1)  
+(https://online.stat.psu.edu/stat502/lesson/4/4.1/4.1.1)  
+
 ### Etc
 e-05 notation
 1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16

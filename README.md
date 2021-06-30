@@ -56,6 +56,9 @@ If a person's height increase by 1 cm, their weight is expected to in crease by 
 y increases by slope in the *population*; remember our slope is calculated based on only a sample of data. (expected, according to our model, predcited and on average)  
 [reference](Texas A&M lecture notes)  
 
+What is the change in the mean response for a 1-unit change in X?
+[referene](DOE lecture notes from KU)
+
 
 ### Multiple comparison problem  
 

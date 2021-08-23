@@ -79,3 +79,8 @@ The effet of the levels of FactorA depends upon what level of factorB
 ### Etc
 e-05 notation
 1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16
+
+
+## PCA
+To find a set of orthogonal bases to preserve the variance of the original data  
+[reference](https://youtu.be/bEX6WPMiLvo)  

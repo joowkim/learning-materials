@@ -84,3 +84,7 @@ e-05 notation
 ## PCA
 To find a set of orthogonal bases to preserve the variance of the original data  
 [reference](https://youtu.be/bEX6WPMiLvo)  
+
+
+## Interpretation of CI: A confidence interval doesn't mean there is 95% probability of the true value or parameters being in that interval. It simply means if we conducted this same survey over and over and used the same method to construct the CI 95% of thoese CIs would cover the true parameter (95 out of 100). We are "confident" in the process of constructing the interval. Noth that the true parameters or values are within any given interval.  
+[reference](Stat 835 lecture note from KUMC)

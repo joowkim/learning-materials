@@ -1,0 +1,4 @@
+- We assume a null hypothesis that we want to disprove
+- We calculate our test statistic assuming the null is true
+- If we get an extreme value, i.e. one with a small probability of something as large or larger occurring under the null then we have evidence against the null, i.e. we would reject the hull in favour of the alternative.
+- A lot of times resarcher's default to defining "extreme" as something with probability of occuring no more than 5% under the null.

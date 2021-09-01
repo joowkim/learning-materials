@@ -74,18 +74,17 @@ P(success) = 0.05, P(failure) = 0.95
 ### Interpreting the interaction term
 The effet of the levels of FactorA depends upon what level of factorB  
 [refereces](https://online.stat.psu.edu/stat502/lesson/4/4.1)  
-(https://online.stat.psu.edu/stat502/lesson/4/4.1/4.1.1)  
 
 ### Etc
-e-05 notation
-1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16
+e-05 notation  
+1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16  
 
 
-## PCA
+## PCA  
 To find a set of orthogonal bases to preserve the variance of the original data  
-[reference](https://youtu.be/bEX6WPMiLvo)  
+[reference](https://youtu.be/bEX6WPMiLvo)   
 
 
-## Interpretation of CI  
+## Interpretation of CI   
 A confidence interval doesn't mean there is 95% probability of the true value or parameters being in that interval. It simply means if we conducted this same survey over and over and used the same method to construct the CI 95% of thoese CIs would cover the true parameter (95 out of 100). We are "confident" in the process of constructing the interval. Noth that the true parameters or values are within any given interval.  
-[reference](Stat 835 lecture note from KUMC)
+[reference](Stat 835 lecture note from KUMC)  

@@ -5,6 +5,7 @@
 There is sufficient evidence at the 0.05 level to conclude that a predictor variable is statistically significant or is significantly related to the reponse variable.   
 [reference: Penn State State501]
 
+
 ### Extrapolation  
 beyond the "scopte of the model" when estimating a mean Uy or to predict a new response y_new for x values int in the range of the sample data  
 [reference: Penn State Stat501 lesson-12.8](https://online.stat.psu.edu/stat501/lesson/12/12.8)
@@ -13,6 +14,7 @@ beyond the "scopte of the model" when estimating a mean Uy or to predict a new r
 ### The CLT
 The Central Limit Theorem of probability states that the sum of many small, independent RVs will be a RV that approximates what is called a *normal distribution*.  
 [reference](Regression and Other Stories)
+
 
 ### P-value
 The *p-value* gives us the probability that we don't have a representative sample; it is the probability of getting a test statistic as large or larger than what we actually observed if *H_0* were true.  
@@ -88,3 +90,15 @@ To find a set of orthogonal bases to preserve the variance of the original data
 ## Interpretation of CI   
 A confidence interval doesn't mean there is 95% probability of the true value or parameters being in that interval. It simply means if we conducted this same survey over and over and used the same method to construct the CI 95% of thoese CIs would cover the true parameter (95 out of 100). We are "confident" in the process of constructing the interval. Noth that the true parameters or values are within any given interval.  
 [reference](Stat 835 lecture note from KUMC)  
+
+
+## Sensitivity and Specificity  
+Let X denote the true state of a subject 1 = diseased, 2 = not diseased.  
+Let Y denote the result of the test 1 = positive, 2 = negative.  
+
+Sensitivity = P(Y=1 | X=1)  (TP / TP + FN)   
+Specificity = P(Y=2 | X=2)  (TN / TN + FP)  
+
+Positive Predictive Value P(X=1 | Y=1)  
+Negative Predictive Value P(X=2 | Y=2)  
+[reference](Introduction to categorical data analysis by Agresti)  

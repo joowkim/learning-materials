@@ -77,10 +77,6 @@ P(success) = 0.05, P(failure) = 0.95
 The effet of the levels of FactorA depends upon what level of factorB  
 [refereces](https://online.stat.psu.edu/stat502/lesson/4/4.1)  
 
-### Etc
-e-05 notation  
-1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16  
-
 
 ## PCA  
 To find a set of orthogonal bases to preserve the variance of the original data  
@@ -102,3 +98,9 @@ Specificity = P(Y=2 | X=2)  (TN / TN + FP)
 Positive Predictive Value P(X=1 | Y=1)  
 Negative Predictive Value P(X=2 | Y=2)  
 [reference](Introduction to categorical data analysis by Agresti)  
+
+
+### miscellaneous
+e-05 notation  
+1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16   
+There's not sufficient evidence to indicate a difference in the proportion.   

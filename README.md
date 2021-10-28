@@ -75,7 +75,11 @@ P(success) = 0.05, P(failure) = 0.95
 
 ### Interpreting the interaction term
 The effet of the levels of FactorA depends upon what level of factorB  
-[refereces](https://online.stat.psu.edu/stat502/lesson/4/4.1)  
+[referece](https://online.stat.psu.edu/stat502/lesson/4/4.1)  
+
+logit(pi) = b_0 + b_1 * x_1 + b_2 * x_2 + b_3 * x_1 * x_2  
+The effect of x_1 on the response depends on the level of x_2  
+[referece] (Analysis of Cateogorical Data course by Chris Bilder)
 
 
 ## PCA  

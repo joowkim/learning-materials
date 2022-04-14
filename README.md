@@ -8,7 +8,7 @@ There is sufficient evidence at the 0.05 level to conclude that a predictor vari
 
 ### Extrapolation  
 beyond the "scopte of the model" when estimating a mean Uy or to predict a new response y_new for x values int in the range of the sample data  
-[reference: Penn State Stat501 lesson-12.8](https://online.stat.psu.edu/stat501/lesson/12/12.8)
+[Penn State Stat501 lesson-12.8](https://online.stat.psu.edu/stat501/lesson/12/12.8)
 
 
 ### The CLT
@@ -27,6 +27,10 @@ The probability of obtaining at least the same result under the null hypothesis.
 ### Standard error  
 The standard deviation of an estimate statistic
 [reference](Regression and Other Stories)   
+
+
+The standard error of the mean is a measure of the uncertainty of our estimate of the population mean. If the standard error is large, then we are less confident of our estimate of the mean. Conversely, if the standard error is small, then we are more confident in our estimate.  
+[Penn State Stat501](https://online.stat.psu.edu/stat505/lesson/5/5.1)
 
 When the standard deviation of a statistic (funcation of RV) is estimated from data, the result called the standard error of statistic.  
 [reference](Basic practice of statistics - Moore 6th ed. p438 and https://youtu.be/kNHrOEavGuI)  

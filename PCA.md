@@ -114,3 +114,7 @@ Comp.1 -> eigen vector
 **Note default calculation of princomp uses divisor N(biased estimate) for the covariance matirx instead of N-1(unbiased estimate)**  
 
 [reference - Applied Multivariate Statistical Analysis lecture note by Prof Chris Bilder ](http://www.chrisbilder.com/multivariate/sections.html)
+
+# Difference between LDA and PCA
+
+PC1 accounts for the most variation in the data, whereas LDA aims to maximaze the separation between the groups. (Both find linear combination of observed varaibles and elements in eigen vectors.)

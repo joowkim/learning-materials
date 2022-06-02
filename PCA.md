@@ -46,13 +46,13 @@ Let X ~ ($\mu$, $\Sigma$) where X is px1. Notice that we do not use a multivaria
 
 **a_1 is a p x 1 eigen vector corresponding the largest eigen value lambda_1**
 
-$y_1$ = $a^{T}_1$ (X - $\mu$) = $a_{11}$($X_1 - \mu_1$) + $a_{21}$($X_2 - \mu_2$) + ... _ $a_{p1}$($X_p - \mu_p$)
+$y_1$ = $a^{T}_1$(X - $\mu$) = $a_{11}$($X_1 - \mu_1$) + $a_{21}$($X_2 - \mu_2$) + ... _ $a_{p1}$($X_p - \mu_p$)
 
 Where $a_1$ is a p x 1 vector chosen so that Var[$a^{T}_{1}$($X - \mu$)] is maximized over all vectors $a_1$ with a length of 1. 
 
 Note this Var[$a^{T}_{1}$($X - \mu$)] is sqrt(**$\lambda_1$**) which is ```the largest eigen value``` (comp1) from the covariance matrix. The $a^{T}_1$ vector is corresponding eigen vector to $\lambda_1$
 
-Because  the variance $y_1$ = $a^{T}_1$ (X - $\mu$) = $a_{11}$($X_1 - \mu_1$) + $a_{21}$($X_2 - \mu_2$) + ...  $a_{p1}$($X_p - \mu_p$) is being maximized, the new variable $y_1$ will explain as much variability of X as possible.
+Because  the variance $y_1$ = $a^{T}_1$(X - $\mu$) = $a_{11}$($X_1 - \mu_1$) + $a_{21}$($X_2 - \mu_2$) + ... $a_{p1}$($X_p - \mu_p$) is being maximized, the new variable $y_1$ will explain as much variability of X as possible.
 
 Why are concerned about explaining variability? In statistics, we often equate **variability** with **information**. The more variability that you understand about a data set, the more information that you know about the data set. Refer back to when you were introduced to ANOVA or regression methods when explaining variability was focused on.
 
@@ -94,7 +94,7 @@ PCA is most often performed using the correlation matrix **P** rather than the c
 
 For each observation, we calculate the **j^th principal component value** or score as:
 
-hat{y_{rj}} = hat{a^*_{j}}* z_r (This is from a correlation matrix). The jth PC and the rth observation.
+$hat{y_{rj}} = hat{a^*_{j}}* z_r$ (This is from a correlation matrix). The jth PC and the rth observation.
 
 ## Component loading vector -> eigen vector also coefficient for the linear combination
 

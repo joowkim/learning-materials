@@ -66,6 +66,15 @@ What is the change in the mean response for a 1-unit change in X?
 [referene](DOE lecture notes from KU)
 
 
+### Interpretation of logistic regression coefficients  
+
+when x_1 is increased by 1, then the odds ratio(?) is incresed/decreased by a factor of e^b_hat_1.
+
+- Coefficient is positive -> Success class (the response variable) and the coefficient are positively correlated
+- Coefficient is negative -> Success class and the coefficient are negatively correlated.
+
+[03_Logistic_Regression_Part_3_Kor from Prof Kang lecture](https://www.youtube.com/watch?v=3sZx4O2aQs8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=10)
+
 ### Multiple comparison problem  
 
 Suppose there are 8 individual hypothesis tests are conducted on beta_1 = 0, beta_2 = 0, beta_3 = 0 ... beta_8 = 0 using alaph = 0.05 for each test. What is the probability taht at least one type 1 error (reject H_0, but H_0 is really true) happends in the 8 tests? This probability would be difficult to find, but we can approximate it by assuming independence among the tests.  

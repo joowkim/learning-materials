@@ -118,3 +118,11 @@ Comp.1 -> eigen vector
 # Difference between LDA and PCA
 
 PC1 accounts for the most variation in the data, whereas LDA aims to maximaze the separation between the groups. (Both find linear combination of observed varaibles and elements in eigen vectors.)
+
+PCA
+
+Interested maximizing the seperatibility between the two groups
+
+LDA
+
+Features/variables with the most variation.

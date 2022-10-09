@@ -124,5 +124,4 @@ PCA
 Interested maximizing the seperatibility between the two groups
 
 LDA
-
-Features/variables with the most variation.
+Focuses on maximizing the seperatibility among known categories.

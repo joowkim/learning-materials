@@ -121,7 +121,29 @@ PC1 accounts for the most variation in the data, whereas LDA aims to maximaze th
 
 PCA
 
-Interested maximizing the seperatibility between the two groups
+Interested maximizing the seperatibility between the two groups. Looking for variables with the most variation.
 
 LDA
+
+Stqtquest https://youtu.be/azXCzI57Yfc
+
 Focuses on maximizing the seperatibility among known categories.
+
+g1, g2 = group1, group2
+
+u_g1, u_g2 = group1/2 mean
+
+s_g1, s_g2 = variance within group1/2
+
+we maximize the numerator and minimize the denominator.
+
+(u_g1 - u_g2)^2 / (s_g1^2 + s_g2^2)
+
+
+# Similarities betweeen PCA and LDA
+
+Both rank the new axes in order of importance.
+
+PC1 accounts for the most variation in the data.
+
+LD1 (the first new axis that LDA creates) accounts for the most variation between the categories.

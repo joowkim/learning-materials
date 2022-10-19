@@ -152,4 +152,6 @@ LD1 (the first new axis that LDA creates) accounts for the most variation betwee
 
 If the experiment is well controlled and has worked well, we should find that replicate samples cluster closely, whilst the greatest sources of variation in the data should be between treatments/sample groups. It is also an incredibly useful tool for checking for outliers and batch effects.
 
+If samples from different groups form separate clusters, this indicates that the differences between groups are larger than those within groups. The biological signal of interest is stronger than the noise (biological and technical) and can be detected.
+
 [reference](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_Apr22/Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html)

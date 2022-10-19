@@ -147,3 +147,9 @@ Both rank the new axes in order of importance.
 PC1 accounts for the most variation in the data.
 
 LD1 (the first new axis that LDA creates) accounts for the most variation between the categories.
+
+# PCA for DE analysis
+
+If the experiment is well controlled and has worked well, we should find that replicate samples cluster closely, whilst the greatest sources of variation in the data should be between treatments/sample groups. It is also an incredibly useful tool for checking for outliers and batch effects.
+
+[reference](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_Apr22/Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html)

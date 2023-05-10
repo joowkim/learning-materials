@@ -155,3 +155,17 @@ If the experiment is well controlled and has worked well, we should find that re
 If samples from different groups form separate clusters, this indicates that the differences between groups are larger than those within groups. The biological signal of interest is stronger than the noise (biological and technical) and can be detected.
 
 [reference](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_Apr22/Bulk_RNAseq_Course_Base/Markdowns/07_Data_Exploration.html)
+
+
+We aim in scRNAseq to compare cells based on their expression across genes, e.g. to identify similar transcriptomic profiles. Each gene represents then a dimension of the data.
+
+Expressions of different genes are correlated if they are affected by the same biological process. The seperate information for these individual genes don't need to be stored, but can insted be compressed into a single dimension, e.g. an "eigenegene".
+
+- reduces the computational work in downstream analyses to only a few dimensions
+- reduces noise by averaging across multiple genes to obtain a more precise representation of the patterns in the data.
+
+In PCA, the first axis (PC1) is chose such that it captures the greatest variance across cells in scRANseq. The next PC should be orthogonal to the PC1 and capture the greatest remaining amount of variation, and so on.
+
+By applying PCA to scRNAseq, we assume that multiple genes are affected by the same biological processes in a coordinated way and random technical or biological noise affects each gene independently. As more variation can be captured by considering the correlated behaviour of many genes, the top PCs are likely to represent the biological signal and the noise are concentrated into the later PCs. The dominant factors of heterogenetiy are then captured by the top PCs.
+
+[Galaxyproject training](https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.html)

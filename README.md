@@ -121,3 +121,11 @@ Negative Predictive Value P(X=2 | Y=2)
 e-05 notation  
 1.1e-05 is to be read as 1.1 × 10−5, or 0.000011, and 2e-16 = 2 × 10−16   
 There's not sufficient evidence to indicate a difference in the proportion.   
+
+
+## Power
+The term power has a special meaning in statistics. It is the probability of detecting something if it is there, also called the true positive rate.
+
+Conventionally, experimentalists aim for a power of 80% (or more) when planning experiments. This means that if the same experiment is run many times, about 20% of the time it will fail to yield significant results even though it should.
+
+https://web.stanford.edu/class/bios221/book/01-chap.html

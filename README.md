@@ -85,6 +85,9 @@ P(success) = 0.05, P(failure) = 0.95
 ``` 1 - pbinom(0, 8, 0.05)``` which is 0.3366. So there is a 33.66% probability of making at least one type 1 error.  
 [reference](Chris Builder - Multiple regression lecture notes Class #16)  
 
+Family wise error rate
+
+The probability of rejecting at least one of the null hypotheses when all of the H_0's are true.
 
 ### Interpreting the interaction term
 The effet of the levels of FactorA depends upon what level of factorB  

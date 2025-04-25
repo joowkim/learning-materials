@@ -72,4 +72,9 @@ https://stats.libretexts.org/Bookshelves/Advanced_Statistics/Analysis_of_Varianc
 
 https://stats.libretexts.org/Bookshelves
 
+
+## Montana state stat books
+
+https://mtstateintrostats.github.io/IntroStatTextbook/index.html
+
 https://greenwood-stat.github.io/GreenwoodBookHTML/

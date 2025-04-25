@@ -71,3 +71,5 @@ https://stats.libretexts.org/Bookshelves/Advanced_Statistics/Analysis_of_Varianc
 ## libretext
 
 https://stats.libretexts.org/Bookshelves
+
+https://greenwood-stat.github.io/GreenwoodBookHTML/

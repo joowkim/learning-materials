@@ -134,3 +134,9 @@ The term power has a special meaning in statistics. It is the probability of det
 Conventionally, experimentalists aim for a power of 80% (or more) when planning experiments. This means that if the same experiment is run many times, about 20% of the time it will fail to yield significant results even though it should.
 
 https://web.stanford.edu/class/bios221/book/01-chap.html
+
+## IV, DV transformation interpretation
+
+https://stats.libretexts.org/Bookshelves/Advanced_Statistics/Intermediate_Statistics_with_R_(Greenwood)/07%3A_Simple_linear_regression_inference/7.06%3A_Transformations_part_II_-_Impacts_on_SLR_interpretations_-_log(y)_log(x)_and_both_log(y)_and_log(x)
+
+https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/

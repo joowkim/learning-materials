@@ -1,22 +1,22 @@
-# Modern statistics for modern biology
+## Modern statistics for modern biology
 
 https://www.huber.embl.de/msmb/
 
-# HarvardX Biomedical Data Science Open Online Training
+## HarvardX Biomedical Data Science Open Online Training
 
 http://rafalab.dfci.harvard.edu/pages/harvardx.html
 
 https://genomicsclass.github.io/book/
 
-# QCBS R workshot materials
+## QCBS R workshot materials
 
 https://r.qcbs.ca/workshops/
 
-# Penn state online applied statistics lecture notes
+## Penn state online applied statistics lecture notes
 
 https://online.stat.psu.edu/statprogram/
 
-# datasience 
+## datasience 
 
 ## dsatasienceschool - Korean
 
@@ -78,3 +78,7 @@ https://stats.libretexts.org/Bookshelves
 https://mtstateintrostats.github.io/IntroStatTextbook/index.html
 
 https://greenwood-stat.github.io/GreenwoodBookHTML/
+
+## openintro
+
+https://www.openintro.org/book/stat/

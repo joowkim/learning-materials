@@ -66,7 +66,9 @@ https://www.youtube.com/playlist?list=PL3HnRmbJODOgk92M25QFOLfr7o5aXeklk
 
 https://www.youtube.com/playlist?list=PL0vEWJI_pj7QgRLDs5Fi3RMPxW2Dj4z9g
 
-https://stats.libretexts.org/Bookshelves/Advanced_Statistics/Analysis_of_Variance_and_Design_of_Experiments
+https://www.youtube.com/@merkeslectures6710/videos
+
+https://byuistats.github.io/Math326_Quarto4/
 
 ## libretext
 

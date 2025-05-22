@@ -27,6 +27,9 @@ https://github.com/cambiotraining
 ## Rockefeller Uni
 https://rockefelleruniversity.github.io/training.html
 
+## marineomics
+ 
+https://marineomics.github.io/index.html
 
 # SingleCellRNAseq
 

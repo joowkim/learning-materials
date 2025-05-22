@@ -140,3 +140,13 @@ https://web.stanford.edu/class/bios221/book/01-chap.html
 https://stats.libretexts.org/Bookshelves/Advanced_Statistics/Intermediate_Statistics_with_R_(Greenwood)/07%3A_Simple_linear_regression_inference/7.06%3A_Transformations_part_II_-_Impacts_on_SLR_interpretations_-_log(y)_log(x)_and_both_log(y)_and_log(x)
 
 https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/
+
+## Experimental unit vs observational unit
+
+ > The experimental unit is the subject of the experiment. It is the entity to which the treatment factor levels are assigned. The observational unit is the entity on which the response measurements are taken.
+
+ https://byuistats.github.io/Math326_Quarto4/experimental_units.html
+
+20:00
+
+ https://www.youtube.com/watch?v=wiJHp7solao

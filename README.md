@@ -150,3 +150,17 @@ https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-r
 20:00
 
  https://www.youtube.com/watch?v=wiJHp7solao
+
+
+ ## constrast options in R
+> Contr.sum: Contrasts sum to zero. Useful for testing specific hypotheses, as it directly compares each group to the overall mean.
+
+> Contr.treatment: Default behavior in R. One level is chosen as the reference, and the coefficients represent differences from this reference level.
+
+> Contr.poly: Polynomial contrasts. Useful for ordinal categorical variables where you want to model linear, quadratic, cubic, etc., trends.
+
+> Contr.helmert: Helmert contrasts. Each level is compared to the mean of subsequent levels.
+
+> Contr.SAS: Similar to Helmert contrasts, but with a different ordering of coefficients.
+
+From https://byuistats.github.io/Math326_Quarto4/unbalanced.html - footnotes

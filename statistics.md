@@ -84,3 +84,7 @@ https://greenwood-stat.github.io/GreenwoodBookHTML/
 ## openintro
 
 https://www.openintro.org/book/stat/
+
+## Veridical Data Science
+
+https://vdsbook.com/

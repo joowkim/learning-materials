@@ -153,6 +153,14 @@ https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-r
 
 
  ## constrast options in R
+
+```
+In R, when you’re fitting a linear model using the lm() or aov()function, the contrasts argument allows you to specify how categorical variables should be encoded into dummy variables for regression analysis.
+
+By default, R uses treatment contrasts, where one level of the categorical variable is chosen as the reference level, and the coefficients for the other levels are compared to this reference level. However, you can change this behavior using the contrasts argument to specify different types of contrasts, such as “contr.sum”, “contr.poly”, “contr.helmert”, etc., each of which results in a different encoding of the categorical variables.
+
+For example, if you have a categorical variable “gender” with levels “male” and “female” and you want to use sum contrasts where the coefficients represent the sum of the response variable for each level compared to the overall mean [which is how we have defined effects in this class], you would specify contrasts = list(gender = contr.sum) in the aov() function.
+
 > Contr.sum: Contrasts sum to zero. Useful for testing specific hypotheses, as it directly compares each group to the overall mean.
 
 > Contr.treatment: Default behavior in R. One level is chosen as the reference, and the coefficients represent differences from this reference level.
@@ -162,5 +170,6 @@ https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-r
 > Contr.helmert: Helmert contrasts. Each level is compared to the mean of subsequent levels.
 
 > Contr.SAS: Similar to Helmert contrasts, but with a different ordering of coefficients.
+```
 
 From https://byuistats.github.io/Math326_Quarto4/unbalanced.html - footnotes

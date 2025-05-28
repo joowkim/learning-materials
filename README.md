@@ -172,4 +172,11 @@ For example, if you have a categorical variable “gender” with levels “male
 > Contr.SAS: Similar to Helmert contrasts, but with a different ordering of coefficients.
 ```
 
+```
+## for car::Anova
+options(contrasts = c("contr.sum", "contr.poly"))
+
+The default contrasts in R (in case you need to revert back) is options(contrasts = c("contr.treatment", "contr.poly")).
+```
+
 From https://byuistats.github.io/Math326_Quarto4/unbalanced.html - footnotes

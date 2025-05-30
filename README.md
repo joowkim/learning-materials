@@ -180,3 +180,7 @@ The default contrasts in R (in case you need to revert back) is options(contrast
 ```
 
 From https://byuistats.github.io/Math326_Quarto4/unbalanced.html - footnotes
+
+# FDR
+
+https://www.publichealth.columbia.edu/research/population-health-methods/false-discovery-rate

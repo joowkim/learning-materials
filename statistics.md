@@ -88,3 +88,11 @@ https://www.openintro.org/book/stat/
 ## Veridical Data Science
 
 https://vdsbook.com/
+
+##  Language Technology and Data Analysis Laboratory
+
+https://ladal.edu.au/tutorials.html
+
+## Introduction to Econometrics with R
+
+https://www.econometrics-with-r.org/index.html

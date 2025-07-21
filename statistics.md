@@ -70,6 +70,18 @@ https://www.youtube.com/@merkeslectures6710/videos
 
 https://byuistats.github.io/Math326_Quarto4/
 
+https://www.statology.org/5-free-resources-for-learning-experimental-design-in-statistics/
+
+### somoe books
+
+http://users.stat.umn.edu/~gary/book/fcdae.pdf
+
+https://designexptr.org/
+
+https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
+
+
+
 ## libretext
 
 https://stats.libretexts.org/Bookshelves
@@ -96,3 +108,17 @@ https://ladal.edu.au/tutorials.html
 ## Introduction to Econometrics with R
 
 https://www.econometrics-with-r.org/index.html
+
+##
+
+https://bookdown.org/steve_midway/DAR/
+
+https://bookdown.org/mike/data_analysis/
+
+## linear mixed models in linguistics and psychology: a comprehensive intro
+
+https://vasishth.github.io/Freq_CogSci/
+
+## Mixed models with R
+
+https://m-clark.github.io/mixed-models-with-R/

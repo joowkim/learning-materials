@@ -122,3 +122,10 @@ https://vasishth.github.io/Freq_CogSci/
 ## Mixed models with R
 
 https://m-clark.github.io/mixed-models-with-R/
+
+
+## random
+
+### Common statistical tests are linear models
+
+https://lindeloev.github.io/tests-as-linear/

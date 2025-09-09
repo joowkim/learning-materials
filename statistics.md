@@ -81,6 +81,9 @@ https://designexptr.org/
 https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 
 
+https://mspeekenbrink.github.io/sdam-book/index.html
+
+https://mspeekenbrink.github.io/sdam-r-companion/
 
 ## libretext
 

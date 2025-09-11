@@ -109,3 +109,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7873980/
 ## Experiment deisgn 
 
 https://bioinformatics.ccr.cancer.gov/ccbr/project-support/experimental-design-best-practices/#rna-seq
+
+## Biological sequence analysis
+
+http://mcb112.org/

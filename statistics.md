@@ -72,6 +72,8 @@ https://byuistats.github.io/Math326_Quarto4/
 
 https://www.statology.org/5-free-resources-for-learning-experimental-design-in-statistics/
 
+https://users.stat.ufl.edu/~winner/sta4211/_book/
+
 ### somoe books
 
 http://users.stat.umn.edu/~gary/book/fcdae.pdf
@@ -127,11 +129,13 @@ https://vasishth.github.io/Freq_CogSci/
 https://m-clark.github.io/mixed-models-with-R/
 
 
-## University of Florida 
-
-Dr. Larry Winner
+## Dr. Larry Winner @ University of Florida 
 
 https://users.stat.ufl.edu/~winner/
+
+## Dr. Derek Sonderegger
+
+https://dereksonderegger.github.io/teaching/
 
 ## random
 

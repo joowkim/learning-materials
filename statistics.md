@@ -127,6 +127,12 @@ https://vasishth.github.io/Freq_CogSci/
 https://m-clark.github.io/mixed-models-with-R/
 
 
+## University of Florida 
+
+Dr. Larry Winner
+
+https://users.stat.ufl.edu/~winner/
+
 ## random
 
 ### Common statistical tests are linear models

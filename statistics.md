@@ -156,3 +156,13 @@ https://data-from.netlify.app/posts/er%20calcium%20depletion%20as%20a%20key%20dr
 https://mspeekenbrink.github.io/sdam-book/index.html
 
 https://mspeekenbrink.github.io/sdam-r-companion/index.html
+
+## Statistics for the Experimental Bench Biologist
+
+https://middleprofessor.github.io/benchbiostats/
+
+## Answering questions with data
+
+https://www.crumplab.com/statistics/
+
+https://www.crumplab.com/rstatsforpsych/index.html

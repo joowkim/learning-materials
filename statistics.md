@@ -76,6 +76,8 @@ https://users.stat.ufl.edu/~winner/sta4211/_book/
 
 ### somoe books
 
+First time design of expriment. Gary W. Oehlert
+
 http://users.stat.umn.edu/~gary/book/fcdae.pdf
 
 https://designexptr.org/
@@ -129,11 +131,11 @@ https://vasishth.github.io/Freq_CogSci/
 https://m-clark.github.io/mixed-models-with-R/
 
 
-## Dr. Larry Winner @ University of Florida 
+## Larry Winner @ University of Florida 
 
 https://users.stat.ufl.edu/~winner/
 
-## Dr. Derek Sonderegger
+## Derek Sonderegger
 
 https://dereksonderegger.github.io/teaching/
 
@@ -143,11 +145,7 @@ https://dereksonderegger.github.io/teaching/
 
 https://lindeloev.github.io/tests-as-linear/
 
-## Dr. Jeffrey Walker
-
-https://middleprofessor.github.io/benchbiostats/
-
-Analyzing Replicated Experiments
+## Analyzing Replicated Experiments
 
 https://data-from.netlify.app/posts/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome
 

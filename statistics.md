@@ -166,3 +166,7 @@ https://middleprofessor.github.io/benchbiostats/
 https://www.crumplab.com/statistics/
 
 https://www.crumplab.com/rstatsforpsych/index.html
+
+## Learning statistics with R. Danielle Navarro
+
+https://learningstatisticswithr.com/lsr-0.6.pdf

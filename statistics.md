@@ -150,3 +150,9 @@ https://middleprofessor.github.io/benchbiostats/
 Analyzing Replicated Experiments
 
 https://data-from.netlify.app/posts/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome
+
+## Statistics: Data analysis and modelling
+
+https://mspeekenbrink.github.io/sdam-book/index.html
+
+https://mspeekenbrink.github.io/sdam-r-companion/index.html

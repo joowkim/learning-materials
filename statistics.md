@@ -168,3 +168,7 @@ https://www.crumplab.com/rstatsforpsych/index.html
 ## Learning statistics with R. Danielle Navarro
 
 https://learningstatisticswithr.com/lsr-0.6.pdf
+
+## Summary and Analysis of Extension Program Evaluation in R
+
+https://rcompanion.org/handbook/

@@ -9,3 +9,7 @@ https://rformassspectrometry.github.io/book/
 # UC Davis proteomics short course
 
 https://video.ucdavis.edu/playlist/dedicated/0_4jkc4swu/0_qmj5meas
+
+# Statistical analysis of mass spectrometry-based proteomics data
+
+https://statomics.github.io/msqrob2book/#why-msqrob2

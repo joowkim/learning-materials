@@ -87,7 +87,7 @@ https://edu.insilicogen.com/kobic/
 
 https://www.laidd.org/
 
-## Pathway
+## Pathway enrichment analysis
 
 https://www.pathwaycommons.org/guide/
 

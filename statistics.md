@@ -172,3 +172,7 @@ https://learningstatisticswithr.com/lsr-0.6.pdf
 ## Summary and Analysis of Extension Program Evaluation in R
 
 https://rcompanion.org/handbook/
+
+## Introduction to Statistics and Data Analysis
+
+https://courses.washington.edu/psy524a/

@@ -176,3 +176,10 @@ https://rcompanion.org/handbook/
 ## Introduction to Statistics and Data Analysis
 
 https://courses.washington.edu/psy524a/
+
+
+## Experimental Designs and Statistical Methods
+
+https://edsm.rbind.io/content/
+
+https://lbelzile.github.io/math80667a/

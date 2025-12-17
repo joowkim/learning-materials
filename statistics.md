@@ -185,6 +185,10 @@ https://edsm.rbind.io/content/
 https://lbelzile.github.io/math80667a/
 
 
-## An R Companion for the Handbook of Biological Statistics
+## Handbook of Biological Statistics, An R Companion for the Handbook of Biological Statistics and Summary and Analysis of Extension Program Evaluation in R
+
+https://www.biostathandbook.com/
 
 https://rcompanion.org/rcompanion/
+
+https://rcompanion.org/handbook/index.html

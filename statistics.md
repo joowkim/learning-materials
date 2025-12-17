@@ -183,3 +183,8 @@ https://courses.washington.edu/psy524a/
 https://edsm.rbind.io/content/
 
 https://lbelzile.github.io/math80667a/
+
+
+## An R Companion for the Handbook of Biological Statistics
+
+https://rcompanion.org/rcompanion/

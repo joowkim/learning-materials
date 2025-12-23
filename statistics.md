@@ -192,3 +192,7 @@ https://www.biostathandbook.com/
 https://rcompanion.org/rcompanion/
 
 https://rcompanion.org/handbook/index.html
+
+## Sara Emily Burke
+
+https://saraemilyburke.com/statistics.html

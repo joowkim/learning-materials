@@ -56,6 +56,8 @@ https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_Dec24/
 
 https://bioinformatics.ccr.cancer.gov/docs/getting-started-with-scrna-seq/
 
+https://nbisweden.github.io/workshop-scRNAseq/home_contents.html
+
 # BulkRNAseq
 
 ### DIY transcriptomics
@@ -113,3 +115,7 @@ https://bioinformatics.ccr.cancer.gov/ccbr/project-support/experimental-design-b
 ## Biological sequence analysis
 
 http://mcb112.org/
+
+## dave tang
+
+https://davetang.github.io/muse/index.html#Bioinformatics

@@ -74,8 +74,6 @@ https://www.statology.org/5-free-resources-for-learning-experimental-design-in-s
 
 https://users.stat.ufl.edu/~winner/sta4211/_book/
 
-### somoe books
-
 First time design of expriment. Gary W. Oehlert
 
 http://users.stat.umn.edu/~gary/book/fcdae.pdf
@@ -84,6 +82,7 @@ https://designexptr.org/
 
 https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 
+## Statistics: Data analysis and modelling
 
 https://mspeekenbrink.github.io/sdam-book/index.html
 
@@ -116,9 +115,7 @@ https://ladal.edu.au/tutorials.html
 
 https://www.econometrics-with-r.org/index.html
 
-##
-
-https://bookdown.org/steve_midway/DAR/
+## A Guide on Data Analysis
 
 https://bookdown.org/mike/data_analysis/
 
@@ -139,9 +136,7 @@ https://users.stat.ufl.edu/~winner/
 
 https://dereksonderegger.github.io/teaching/
 
-## random
-
-### Common statistical tests are linear models
+## Common statistical tests are linear models
 
 https://lindeloev.github.io/tests-as-linear/
 
@@ -196,3 +191,7 @@ https://rcompanion.org/handbook/index.html
 ## Sara Emily Burke
 
 https://saraemilyburke.com/statistics.html
+
+## Analysing Data using Linear Models
+
+https://bookdown.org/pingapang9/linear_models_bookdown/

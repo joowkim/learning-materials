@@ -195,3 +195,9 @@ https://saraemilyburke.com/statistics.html
 ## Analysing Data using Linear Models
 
 https://bookdown.org/pingapang9/linear_models_bookdown/
+
+## Beyond Multiple Linear Regression
+
+Applied Generalized Linear Models and Multilevel Models in R
+
+https://bookdown.org/roback/bookdown-BeyondMLR/

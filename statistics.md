@@ -201,3 +201,7 @@ https://bookdown.org/pingapang9/linear_models_bookdown/
 Applied Generalized Linear Models and Multilevel Models in R
 
 https://bookdown.org/roback/bookdown-BeyondMLR/
+
+## STAT 440/540: Regression Analysis
+
+https://data-wise.github.io/regression/home_lectures.html

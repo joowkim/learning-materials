@@ -1,207 +1,83 @@
-## Modern statistics for modern biology
-
-https://www.huber.embl.de/msmb/
-
-## HarvardX Biomedical Data Science Open Online Training
-
-http://rafalab.dfci.harvard.edu/pages/harvardx.html
-
-https://genomicsclass.github.io/book/
-
-## QCBS R workshot materials
-
-https://r.qcbs.ca/workshops/
-
-## Penn state online applied statistics lecture notes
-
-https://online.stat.psu.edu/statprogram/
-
-## datasience 
-
-## dsatasienceschool - Korean
-
-https://datascienceschool.net/intro.html
-
-## some blogs
-
-https://greeksharifa.github.io/blog/categories/
-
-## Dr. Brandon Steart stat/machine learning materials
-
-https://bstewart.scholar.princeton.edu/teaching
-
-## Practical Statistics for the Life Sciences
-
-https://statomics.github.io/pages/teaching.html
-
-## applied multivariate data analysis
-
-https://uw.pressbooks.pub/appliedmultivariatestatistics/
-
-## math stats
-
-https://daviddalpiaz.github.io/stat400sp18//syllabus.html
-
-## Germán Rodríguez
-
-https://grodri.github.io/
-
-## Regression Modeling Strategies
-
-https://hbiostat.org/rmsc/
-
-https://hbiostat.org/doc/rms/4day.html
-
-## DOE
-
-https://www.youtube.com/@merkeslectures6710/videos
-
-https://www.theopeneducator.com/doe
-
-https://www.youtube.com/playlist?list=PLW-oQRxLODMcYEFXP4eg5EXBl-0hsTSe1
-
-https://www.youtube.com/playlist?list=PLxfm_owPoF2FCvQPrt0RLsn6mOyAJ1rb_
-
-https://www.youtube.com/playlist?list=PL3HnRmbJODOgk92M25QFOLfr7o5aXeklk
-
-https://www.youtube.com/playlist?list=PL0vEWJI_pj7QgRLDs5Fi3RMPxW2Dj4z9g
-
-https://www.youtube.com/@merkeslectures6710/videos
-
-https://byuistats.github.io/Math326_Quarto4/
-
-https://www.statology.org/5-free-resources-for-learning-experimental-design-in-statistics/
-
-https://users.stat.ufl.edu/~winner/sta4211/_book/
-
-First time design of expriment. Gary W. Oehlert
-
-http://users.stat.umn.edu/~gary/book/fcdae.pdf
-
-https://designexptr.org/
-
-https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
-
-## Statistics: Data analysis and modelling
-
-https://mspeekenbrink.github.io/sdam-book/index.html
-
-https://mspeekenbrink.github.io/sdam-r-companion/
-
-## libretext
-
-https://stats.libretexts.org/Bookshelves
-
-
-## Montana state stat books
-
-https://mtstateintrostats.github.io/IntroStatTextbook/index.html
-
-https://greenwood-stat.github.io/GreenwoodBookHTML/
-
-## openintro
-
-https://www.openintro.org/book/stat/
-
-## Veridical Data Science
-
-https://vdsbook.com/
-
-##  Language Technology and Data Analysis Laboratory
-
-https://ladal.edu.au/tutorials.html
-
-## Introduction to Econometrics with R
-
-https://www.econometrics-with-r.org/index.html
-
-## A Guide on Data Analysis
-
-https://bookdown.org/mike/data_analysis/
-
-## linear mixed models in linguistics and psychology: a comprehensive intro
-
-https://vasishth.github.io/Freq_CogSci/
-
-## Mixed models with R
-
-https://m-clark.github.io/mixed-models-with-R/
-
-
-## Larry Winner @ University of Florida 
-
-https://users.stat.ufl.edu/~winner/
-
-## Derek Sonderegger
-
-https://dereksonderegger.github.io/teaching/
-
-## Common statistical tests are linear models
-
-https://lindeloev.github.io/tests-as-linear/
-
-## Analyzing Replicated Experiments
-
-https://data-from.netlify.app/posts/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome/er%20calcium%20depletion%20as%20a%20key%20driver%20for%20impaired%20er-to-mitochondria%20calcium%20transfer%20and%20mitochondrial%20dysfunction%20in%20wolfram%20syndrome
-
-## Statistics: Data analysis and modelling
-
-https://mspeekenbrink.github.io/sdam-book/index.html
-
-https://mspeekenbrink.github.io/sdam-r-companion/index.html
-
-## Statistics for the Experimental Bench Biologist
-
-https://middleprofessor.github.io/benchbiostats/
-
-## Answering questions with data
-
-https://www.crumplab.com/statistics/
-
-https://www.crumplab.com/rstatsforpsych/index.html
-
-## Learning statistics with R. Danielle Navarro
-
-https://learningstatisticswithr.com/lsr-0.6.pdf
-
-## Summary and Analysis of Extension Program Evaluation in R
-
-https://rcompanion.org/handbook/
-
-## Introduction to Statistics and Data Analysis
-
-https://courses.washington.edu/psy524a/
-
-
-## Experimental Designs and Statistical Methods
-
-https://edsm.rbind.io/content/
-
-https://lbelzile.github.io/math80667a/
-
-
-## Handbook of Biological Statistics, An R Companion for the Handbook of Biological Statistics and Summary and Analysis of Extension Program Evaluation in R
-
-https://www.biostathandbook.com/
-
-https://rcompanion.org/rcompanion/
-
-https://rcompanion.org/handbook/index.html
-
-## Sara Emily Burke
-
-https://saraemilyburke.com/statistics.html
-
-## Analysing Data using Linear Models
-
-https://bookdown.org/pingapang9/linear_models_bookdown/
-
-## Beyond Multiple Linear Regression
-
-Applied Generalized Linear Models and Multilevel Models in R
-
-https://bookdown.org/roback/bookdown-BeyondMLR/
-
-## STAT 440/540: Regression Analysis
-
-https://data-wise.github.io/regression/home_lectures.html
+# Statistics Links
+
+## Introductory Statistics
+
+- [Penn State Applied Statistics lecture notes](https://online.stat.psu.edu/statprogram/)
+- [LibreTexts Statistics Bookshelves](https://stats.libretexts.org/Bookshelves)
+- [Montana State Intro Stats Textbook](https://mtstateintrostats.github.io/IntroStatTextbook/index.html)
+- [Greenwood Book (Montana State)](https://greenwood-stat.github.io/GreenwoodBookHTML/)
+- [OpenIntro Statistics](https://www.openintro.org/book/stat/)
+- [Answering Questions with Data](https://www.crumplab.com/statistics/)
+- [R Stats for Psych (Crump Lab)](https://www.crumplab.com/rstatsforpsych/index.html)
+- [Learning Statistics with R — Danielle Navarro (PDF)](https://learningstatisticswithr.com/lsr-0.6.pdf)
+- [Introduction to Statistics and Data Analysis — UW PSY524](https://courses.washington.edu/psy524a/)
+- [Statistics: Data Analysis and Modelling](https://mspeekenbrink.github.io/sdam-book/index.html)
+- [Statistics: Data Analysis and Modelling — R companion](https://mspeekenbrink.github.io/sdam-r-companion/)
+- [Veridical Data Science](https://vdsbook.com/)
+- [Math Stats — STAT 400 (Dalpiaz)](https://daviddalpiaz.github.io/stat400sp18//syllabus.html)
+
+## Biostatistics & Life Sciences
+
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+- [HarvardX Biomedical Data Science (Rafa Lab)](http://rafalab.dfci.harvard.edu/pages/harvardx.html)
+- [Data Analysis for the Life Sciences (genomicsclass)](https://genomicsclass.github.io/book/)
+- [Practical Statistics for the Life Sciences (statomics)](https://statomics.github.io/pages/teaching.html)
+- [Statistics for the Experimental Bench Biologist](https://middleprofessor.github.io/benchbiostats/)
+- [Handbook of Biological Statistics](https://www.biostathandbook.com/)
+- [An R Companion for the Handbook of Biological Statistics](https://rcompanion.org/rcompanion/)
+- [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/)
+
+## Regression & Linear Models
+
+- [Regression Modeling Strategies (Harrell)](https://hbiostat.org/rmsc/)
+- [Regression Modeling Strategies — 4-day course notes](https://hbiostat.org/doc/rms/4day.html)
+- [Analysing Data using Linear Models](https://bookdown.org/pingapang9/linear_models_bookdown/)
+- [Beyond Multiple Linear Regression — GLMs and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- [Common Statistical Tests are Linear Models](https://lindeloev.github.io/tests-as-linear/)
+- [STAT 440/540 Regression Analysis](https://data-wise.github.io/regression/home_lectures.html)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+- [A Guide on Data Analysis (bookdown)](https://bookdown.org/mike/data_analysis/)
+
+## Mixed Models
+
+- [Mixed Models with R (Clark)](https://m-clark.github.io/mixed-models-with-R/)
+- [Linear Mixed Models in Linguistics and Psychology (Vasishth)](https://vasishth.github.io/Freq_CogSci/)
+
+## Design of Experiments (DOE)
+
+- [Merkel Lectures (YouTube)](https://www.youtube.com/@merkeslectures6710/videos)
+- [The Open Educator — DOE](https://www.theopeneducator.com/doe)
+- [YouTube playlist 1](https://www.youtube.com/playlist?list=PLW-oQRxLODMcYEFXP4eg5EXBl-0hsTSe1)
+- [YouTube playlist 2](https://www.youtube.com/playlist?list=PLxfm_owPoF2FCvQPrt0RLsn6mOyAJ1rb_)
+- [YouTube playlist 3](https://www.youtube.com/playlist?list=PL3HnRmbJODOgk92M25QFOLfr7o5aXeklk)
+- [YouTube playlist 4](https://www.youtube.com/playlist?list=PL0vEWJI_pj7QgRLDs5Fi3RMPxW2Dj4z9g)
+- [BYU-Idaho Math326 — Experimental Design](https://byuistats.github.io/Math326_Quarto4/)
+- [Statology — 5 free DOE resources](https://www.statology.org/5-free-resources-for-learning-experimental-design-in-statistics/)
+- [UFL STA4211 — Design of Experiments](https://users.stat.ufl.edu/~winner/sta4211/_book/)
+- [A First Course in Design and Analysis of Experiments — Gary Oehlert (PDF)](http://users.stat.umn.edu/~gary/book/fcdae.pdf)
+- [designexptr.org](https://designexptr.org/)
+- [Applied Statistics (CMU Seltman, PDF)](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
+- [Experimental Designs and Statistical Methods (edsm)](https://edsm.rbind.io/content/)
+- [Experimental Designs and Statistical Methods (Belzile)](https://lbelzile.github.io/math80667a/)
+
+## Multivariate & Applied Methods
+
+- [Applied Multivariate Statistics (UW Press)](https://uw.pressbooks.pub/appliedmultivariatestatistics/)
+- [LADAL — Language Technology and Data Analysis Laboratory](https://ladal.edu.au/tutorials.html)
+
+## R-focused Resources
+
+- [QCBS R Workshop Materials](https://r.qcbs.ca/workshops/)
+- [Germán Rodríguez — R and stats notes](https://grodri.github.io/)
+
+## Individual Instructors & Course Pages
+
+- [Dr. Brandon Stewart — Princeton (stats/ML)](https://bstewart.scholar.princeton.edu/teaching)
+- [Larry Winner — University of Florida](https://users.stat.ufl.edu/~winner/)
+- [Derek Sonderegger — teaching materials](https://dereksonderegger.github.io/teaching/)
+- [Sara Emily Burke — statistics](https://saraemilyburke.com/statistics.html)
+
+## Korean Resources
+
+- [Datascienceschool](https://datascienceschool.net/intro.html)
+- [Greeks Harifa blog](https://greeksharifa.github.io/blog/categories/)

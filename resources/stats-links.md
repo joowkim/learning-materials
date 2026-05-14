@@ -59,6 +59,7 @@
 - [Applied Statistics (CMU Seltman, PDF)](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Experimental Designs and Statistical Methods (edsm)](https://edsm.rbind.io/content/)
 - [Experimental Designs and Statistical Methods (Belzile)](https://lbelzile.github.io/math80667a/)
+- [Stat 454/545 DOE ](https://data-wise.github.io/doe/)
 
 ## Multivariate & Applied Methods
 

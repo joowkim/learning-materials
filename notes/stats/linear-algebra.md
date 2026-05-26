@@ -1,22 +1,22 @@
 # Matrix multiplication
 
 ## Row-wise
-![](images/lig_alg_1.png)
+![](../../notebooks/images/lig_alg_1.png)
 
 
-![](images/lig_alg_6.png)
+![](../../notebooks/images/lig_alg_6.png)
 
 ## Column-wise
 
-![](images/lig_alg_2.png)
+![](../../notebooks/images/lig_alg_2.png)
 
-![](images/lig_alg_5.png)
+![](../../notebooks/images/lig_alg_5.png)
 
 ## Outer product
-![](images/lig_alg_3.png)
+![](../../notebooks/images/lig_alg_3.png)
 
 ## Dot product
-![](images/lig_alg_4.png)
+![](../../notebooks/images/lig_alg_4.png)
 
 # Reference
 

@@ -20,7 +20,8 @@
 
 - [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
 - [HarvardX Biomedical Data Science (Rafa Lab)](http://rafalab.dfci.harvard.edu/pages/harvardx.html)
-- [Data Analysis for the Life Sciences (genomicsclass)](https://genomicsclass.github.io/book/)
+    - [Data Analysis for the Life Sciences (genomicsclass)](https://genomicsclass.github.io/book/)
+    - [Rpubs by Dr. Nishant upadhyay](https://rpubs.com/nishantsbi/163134)
 - [Practical Statistics for the Life Sciences (statomics)](https://statomics.github.io/pages/teaching.html)
 - [Statistics for the Experimental Bench Biologist](https://middleprofessor.github.io/benchbiostats/)
 - [Handbook of Biological Statistics](https://www.biostathandbook.com/)

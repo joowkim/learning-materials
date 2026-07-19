@@ -15,6 +15,7 @@
 - [NIH CCR Bioinformatics — class documents](https://bioinformatics.ccr.cancer.gov/btep/class-documents/)
 - [Carpentries community lessons](https://carpentries.org/community-lessons/)
 - [Dave Tang's Muse](https://davetang.github.io/muse/index.html#Bioinformatics)
+- [NCI Bioinformatics Training and Education Program recordings](https://bioinformatics.ccr.cancer.gov/btep/btep-video-archive-of-past-classes/)
 
 ## Single-cell RNA-seq
 

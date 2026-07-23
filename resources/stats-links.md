@@ -27,6 +27,7 @@
 - [Handbook of Biological Statistics](https://www.biostathandbook.com/)
 - [An R Companion for the Handbook of Biological Statistics](https://rcompanion.org/rcompanion/)
 - [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/)
+- [Dr. Alex Kaizer](https://www.alexkaizer.com/teaching/)
 
 ## Regression & Linear Models
 
@@ -75,9 +76,9 @@
 ## Individual Instructors & Course Pages
 
 - [Dr. Brandon Stewart — Princeton (stats/ML)](https://bstewart.scholar.princeton.edu/teaching)
-- [Larry Winner — University of Florida](https://users.stat.ufl.edu/~winner/)
-- [Derek Sonderegger — teaching materials](https://dereksonderegger.github.io/teaching/)
-- [Sara Emily Burke — statistics](https://saraemilyburke.com/statistics.html)
+- [Dr. Larry Winner — University of Florida](https://users.stat.ufl.edu/~winner/)
+- [Dr. Derek Sonderegger — teaching materials](https://dereksonderegger.github.io/teaching/)
+- [Dr. Sara Emily Burke — statistics](https://saraemilyburke.com/statistics.html)
 
 ## Korean Resources
 
